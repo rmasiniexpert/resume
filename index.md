@@ -4,7 +4,7 @@
 
 ### Why sell the same message for everyone?
 
-Everybody is equal to everyone? Of course not! So *why do you keep investing money with marketing ads that send teh same message for everybody?*
+Everybody is equal to everyone? Of course not! So *why do you keep investing money with marketing ads that send the same message for everybody?*
 
 A.I. it's transforming the advertisement industry, automating tasks and learining from customer feedback.
 

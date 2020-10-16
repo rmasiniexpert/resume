@@ -1,5 +1,5 @@
 title:  Rodrigo Masini - AI & Decision Intelligence Engineer  # your name (or website title) here
-logo: "images/63BC1246-0FE5-11EB-A821-027C41929891.jpg" # your photo (or logo) here
+logo: "images/rodrigo2.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
@@ -8,4 +8,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-tfolio
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here

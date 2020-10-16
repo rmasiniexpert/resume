@@ -239,5 +239,5 @@ Simple Shiny applications and markdown reports (not software engineering).
 
 
 ---
-<p style="font-size:11px"> get in touch<a href="mailto:rmasiniexpert@gmail.com"> send me an email</a></p>
+<p style="font-size:11px"> Get in touch<a href="mailto:rmasiniexpert@gmail.com"> send me an email!</a></p>
 <!-- Remove above link if you don't want to attibute -->

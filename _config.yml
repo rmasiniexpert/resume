@@ -1,21 +1,11 @@
-name: "Rodrigo Masini"
-logo: "images/rodrigo2.png"
-navbar:
-  title: "Rodrigo Masini"
-  left:
-    - text: "Humanized AI"
-    - text: "Predictive models"
-    - text: "Customer acquisition"
-    - text: "Personalized projects"
-
-  right:
-    - icon: fa-github fa-lg
-      href: http://github.com/rmasiniexpert
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/rodrigo_masini
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/rmasiniexpert/
-output:
-  html_document:
-    theme: paper
-    css: 'styles.css'
+title: John Doe # your name (or website title) here
+logo: "/images/rodrigo2.png" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here

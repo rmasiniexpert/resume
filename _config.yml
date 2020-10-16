@@ -1,15 +1,22 @@
+name: "Rodrigo Masini"
+logo: "images/rodrigo2.png"
+output_dir: "."
+navbar:
+  title: "Rodrigo Masini"
+  left:
+    - text: "Humanized AI"
+    - text: "Predictive models"
+    - text: "Customer acquisition"
+    - text: "Personalized projects"
 
-title:  Rodrigo Masini - AI & Decision Intelligence Engineer  # your name (or website title) here
-logo: "images/rodrigo2.png" # your photo (or logo) here
-  First description 
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/rmasiniexpert/">View My LinkedIn Profile</a> 
-  <a href="https://www.twitter.com/rodrigo_masini">View My LinkedIn Profile</a> 
-  
-  
-theme: jekyll-theme-minima
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/rmasiniexpert
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/rodrigo_masini
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/rmasiniexpert/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Rodrigo Masini # your name (or website title) here
 logo: "/images/rodrigo2.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Responsible to create a new approache for A.I. commercial products: humanized and automatated data workflow. 
   <br><br>
-  Second description 
+  Unique background and rich experience to create and manage A.I. products. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/rmasiniexpert/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

@@ -3,9 +3,16 @@ logo: "images/rodrigo2.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
+  Design, conduct, and report results from prototype or proof-of-concept A.I. research projects that focus on 
+  1) new tools, methods, or algorithms, 
+  2) new scientific domains or application areas, or 
+  3) new data sets or sources
+  <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-tfolio
+  Develop new machine learning models that use human behaviour and personality -> exclusive work!
+  <br><br>
+  <a href="https://www.linkedin.com/in/rmasiniexpert/">View My LinkedIn Profile</a> 
+  <a href="https://www.github.com/rmasiniexpert/">View My Github Profile</a> 
+theme: jekyll-theme-darkpole
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here

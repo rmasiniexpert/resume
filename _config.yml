@@ -1,6 +1,5 @@
 name: "Rodrigo Masini"
 logo: "images/rodrigo2.png"
-output_dir: "."
 navbar:
   title: "Rodrigo Masini"
   left:

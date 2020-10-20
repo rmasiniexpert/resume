@@ -1,13 +1,5 @@
 title: Rodrigo Masini # your name (or website title) here
 logo: "/images/rodrigo2.png" # your photo (or logo) here
-sidebar:
-  title: "More"
-  nav: sidebar-sample
-  sidebar-sample:
-  - title: "Projects"
-    children:
-      - title: "Jobs web scrapping"
-        url: /job.mb
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Responsible to create a new approache for A.I. commercial products: humanized and automatated data workflow. 

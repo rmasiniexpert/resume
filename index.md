@@ -4,35 +4,42 @@
 
 ## Summary
 
-A **senior Data Scientist** with a very rich educational background in Medicine (specialist in Pediatrics), Mathematics, Physics, Project Manager (six lean sigma) and **MBA in business and technology (data science)**. 
+A **Senior Data Scientist** with a very rich educational background in Medicine (specialist in Pediatrics), Mathematics, Physics, Project Manager (six lean sigma) and **MBA in business and technology (data science)**. 
 Focused on leverage data to solve business challenges through machine learning models and other AI approaches. 4 years dedicated to create a data analytics culture for all size business, from brainstorm ideas,  development and management of AI projects to the deployment of a new efficient, smart and automated technology into the business operations. 
-**Responsible for creating machine learning models that use exclusive personality and human behavior to increase on average 30% of traditional AI models.**
+**Responsible for creating machine learning models that use exclusive personality and human behaviour to increase on average 30% of traditional AI models.**
 Also an innovative MD with a strong leadership manager with 10+ years of experience focused on healthcare strategies, clinical research, project management tasks, and data science projects. 
 Creative, organized, dedicated and compromised with excellence in all project deliverables targeting at the excellence of the results.
 
 ### Selected Value Highlights
- Expertise in keeping an up-to-date knowledge about healthcare business trends, research, innovation and healthcare business administration.
-Data scientist with 4+ years of hands-on experience working with data in visualization, reporting, analysis, with ability to work with minimal supervision, think critically and deliver superior output that is fully tested, fully documented and in alignment with what is needed.
+
+Data Scientist with 4+ years of hands-on experience working with data in visualization, reporting, analysis, with ability to work with minimal supervision, think critically and deliver superior output that is fully tested, fully documented and in alignment with what is needed.
 Effectively leverages academic knowledge and resources to create exceptional outcomes by embracing change and resolving barriers and constraints using Lean Six Sigma methodology.
 Proficient in project planning, coordinate teams, implementation and maintaining for attainment of organizational long-term goals and objectives.
 Excellent analytical, problem-solving skills including strong ability to build up models with effectiveness and efficiency.
 High ability to use different data science tools to increase speed, efficiency and the quality of the results. 
+Expertise in keeping an up-to-date knowledge about healthcare business trends, research, innovation and healthcare business administration.
 
-Programming Languages:     R, SQL, Linux, Javascript, Python
+Programming Languages:     **R, SQL, Linux, Javascript, Python**
 
-Software/Databases:     SQL Server, PostgreSQL, My SQL, Maria DB, S3
+Databases:             **SQL Server, PostgreSQL, My SQL, Maria DB, S3**
 
-Cloud computing:                      AWS certificated 
+Cloud computing:                      **AWS** certificated 
 
-Methodologies:    Lean Six Sigma, Project Manager Process, Project Management, Data analytics and Business Analysis using data science procedures, Clinical Research performancing standards as well as relevant SOPs, ICH/GCP, and local requirements.
+Project management softwares:   **Trello, Clickup, Monday, Github, Deepnote**
 
-Others:    Technical Writer, Medicine/Pharma routines, Healthcare Management, Statistical Data Analysis, Good Clinical Practice, Organizational Synergy, Customer & Patient Analysis, Digital Healthcare, Auditing, Market Research & Analysis, Medicine & Pharma Industry, Pediatrics, Emergency, Decision making & risk options
+Softwares:                 **All MS package, all Google package**
 
-## Professional experience
+Data specialist:     **cleaning and enriching data bases, machine learning models that can be easily attached to business operations**
+
+Methodologies:    Lean Six Sigma, Project Manager Process, **Data analytics and Business Analysis** using data science procedures, Clinical Research performancing standards as well as relevant SOPs, ICH/GCP, and local requirements.
+
+Others:    **Medicine/Pharma routines, Healthcare Management, Statistical Data Analysis, Good Clinical Practice, Organizational Synergy, Customer & Patient Analysis, Digital Healthcare, Auditing, Market Research & Analysis,** Medicine & Pharma Industry, Pediatrics, Emergency, Decision making & risk options
+
+## Professional experience (old to new)
 
 ### MUNICIPAL SANTA JULIANA HOSPITAL, BRAZIL Mar 2007 - Feb 2008
 
-Emergency Medicine – Physician
+**Emergency Medicine – Physician**
 
 Provided medical treatment to patients requiring acute and life-saving care.
 Resuscitated and stabilized patients and transition care to an appropriate endpoint whether that be the ICU, general inpatient bed, another provider, another hospital, or home.
@@ -50,7 +57,7 @@ Continually evaluates the quality of care rendered to patients.
 
 ### BRAZILIAN ARMY, BRAZIL Feb 2008 - Mar 2009
 
-Lieutenat Physician 
+**Lieutenat Physician** 
 
 Conducted and supervised direct patient care, and plan and execute disease prevention and health promotion programs.
 Exercised command of 2 medical units as provided by law and regulation.
@@ -65,7 +72,7 @@ Continually evaluates the quality of care rendered to patients.
 
 ### SANTO ANTONIO CHILDREN’S HOSPITAL, BRAZIL Mar 2009 - Feb 2011
 
-Director of Semi intensive acute critical Unit and Clinical Research Associate 
+**Director of Semi intensive acute critical Unit and Clinical Research Associate** 
 
 Responsible on a 24-hour basis for the coordination of patient care, administrative, and nursing activities.
 Continually evaluates the quality of care rendered to patients.
@@ -83,7 +90,7 @@ Provides medical expertise in the operation of approved quality improvement and 
 
 ### SANTA CLARA HOSPITAL, Brazil Mar 2011 - Sep 2016
 
-Emergency Pediatrician and Director of Pediatrics ED
+**Emergency Pediatrician and Director of Pediatrics ED**
 
 Assisted the Chief Medical Director in the functioning of the physician committees including committee structure, processes, and membership.
 Oversee the activities of physician advisors. Utilizes the services of medical and pharmacy consultants for reviewing complex cases and medical necessity appeals.
@@ -96,7 +103,8 @@ Developed alliances with the provider community through the development and impl
 
 ### PERALTA PEDIATRIC CLINIC, BRAZIL  Mar 2011 - Aug 2016
 
-Owner, CEO and COO
+**Owner, CEO and COO**
+
 Provided counseling for both patients and families / guardians regarding present disease and possible remedies to address the illness.
 Strictly maintained the confidentiality of patient illnesses and personal information.
 Communicated complex medical terminologies and medical descriptions to health consumers and families.
@@ -104,7 +112,7 @@ Directed and coordinated activities of nurses, assistants, specialists, therapis
 
 ### Dra Ariadne Primary Care, Senomed, Dr Ivan Angio Services, Dr Rafael Cardiology Practice, Cardioreborn Cardiac Surgery Institute[Healthcare Clinics], Sao Paulo State, Country Brazil– Remote position - contract Apr 2016 – Feb 2019
 
-Healthcare Strategy and Operations Consultant
+**Healthcare Strategy and Operations Independent Consultant**
 
 Reviewed and analyzes secondary sources such as medical literature, trade sources, government filings, and databases, etc. to support forecasting, market sizing, competitive analysis, etc.
 Forecasted based on market research input, and secondary data such as incidence, prevalence or procedure volume.
@@ -116,7 +124,7 @@ Created a more efficient auditing in payments and review contracts generating a 
 
 ### Sinaxys, Anaminese & some Projects in Partnership with Venture Capital GROWPLUS[Startups], Porto Alegre State, Country Brazil – Remote position - contract   Apr 2017 – Nov 2018
 
-Change agent
+**Change agent**
 
 Assisted in managing the change of the company culture by guaranteeing customer satisfaction at the process end.
 Investigated the customer relationship management process to capture weak spots and guide the senior management in strategy implementation to overcome the weakened.
@@ -128,7 +136,7 @@ Managed partnerships with the C-level managers with and between teams.
 
 ### ORTOPCURITIBA, RENOVARE, DRA MARIANA PRIMARY PRACTICE, DR GIBRAN NEUROSURGEON [Healthcare Practices], Paraná State, Country Brazil – Remote position – contract  Jun 2017 - Oct 2018
 
-Project Manager – Healthcare
+**Project Manager – Healthcare**
 
 Effectively managed client communications and expectations.
 Owned the customer relationship – function as primary point of contact during implementation, and maintain position as trusted advisor to clients.
@@ -146,7 +154,7 @@ Coordinated training for team members.
 
 ### MEDITOC, Up Recovery, Instituto de Mama do ABC [Hospitals], Sao Paulo State, Country Brazil – Remote position – contract Jun 2017 – Nov 2018
 
-Lean Six Sigma Project Manager
+**Lean Six Sigma Project Manager**
 
 Scoped and planned the projects (deliverables, timelines, resourcing, etc.).
 Identified waste and pain-points in the process using Lean tools (including basic Process Mapping, VSM, SIPOC's, Time and Motion studies, Benchmarking, etc.) and presenting findings to Senior Leadership.
@@ -159,7 +167,7 @@ Supported the development of program reporting and senior stakeholder presentati
 
 ### Ortopedia da Barra & Ombro sem Dor [Healthcare Specialized Clinics], RJ State, Country Brazil –  Remote position - contract    Jul 2017 – Oct 2019
 
-Data Analyst, Clinical Research Consultant and Decision Intelligence Consultant
+**Data Analyst, Clinical Research Consultant and Decision Intelligence Consultant**
 
 Democratized business data by building effective data models, forecasting and empower managers to make data driven decisions.
 Gathered business requirements across company, develop and execute data tasks, and deliver complement analysis to business users.
@@ -177,14 +185,15 @@ Assisted in the planning and execution of clinical studies ensuring that deliver
 Created and manage reports that detail the clinical study progress such as subject screening and enrollment, data collection, documentation of adverse events, and payments.
 Assisted with the development and management of study-related documents and materials such as investigational plans, case report forms, study manuals, monitoring plan, informed consents, websites, recruitment materials and other study related tools.
 
-LZNEWS, JORNAL LABOR NEWS, DOUTORTV, HEALTHTECHCHANNEL[MAGAZINE AND ONLINE BLOGS], Jan 2019 - December 2020
+### LZNEWS, JORNAL LABOR NEWS, DOUTORTV, HEALTHTECHCHANNEL[MAGAZINE AND ONLINE BLOGS], Jan 2019 - December 2019
 
-Scientific Technical Medical & Pharma and Digital Healthcare Writer
+**Scientific Technical Medical & Pharma and Digital Healthcare Writer**
+
 Composes high conceptualized blogs and journals for knowledge development, empowerment and innovations in healthcare.
 
 ### IBusinessHealth [Data science company] Brazil – Remote position – contract   Jan 2018 – September 2019
 
-Data scientist
+**Data scientist**
 
 Thorough understanding of the business and data strategy.
 Designing and implementing data strategies and data flow.
@@ -198,11 +207,9 @@ Knowledge of relevant applications, big data solutions, and tools.
 ### AITendency [Data science company] Windermere, Florida US, Oct 2019 – May 2020
 
 
-Chief Data Officer 
+**Chief Data Officer** 
 
 This position I was responsible for developing and maintaining our client's business analytical infrastructure providing timely and reliable data for informed decision-making. In addition, I apply advanced statistical analysis, data mining, machine learning models and various predictive modeling techniques to provide information, knowledge, coordination, and tools that support the growth and continued success of our clients. At the same, I am responsible:
-
-
 Knowledge of relevant applications, big data solutions, and tools.
 Develop a key scientific understanding of the various organizational data that collected and reported for all project types;
 Collaborate with other scientific staff to understand company data analysis needs and devise possible solutions, communicating results and ideas to key decision-makers;
@@ -212,7 +219,6 @@ Participate in project kickoff meetings to understand data outputs and analyses 
 Develop processes and tools to monitor and analyze model performance and data accuracy;
 Research and develop statistical learning models for data analysis;
 Implement new statistical or other mathematical methodologies as needed for specific analysis;
-
 Assess the effectiveness and accuracy of new data sources and data gathering techniques;
 Optimize joint development efforts through appropriate database use and project design;
 Manage project sand meet deadlines in a high intensity, fast-paced environment;
@@ -220,11 +226,10 @@ Work with software engineers to integrate commonly used analyses;
 Participate in IT data modeling for new or re-engineered systems.
 
 
-### Independent contractor Windermere, Florida US, May 2009 - Present
+### Independent contractor Windermere, Florida US, May 2009 - Present 
 
-A.I. and machine learning engineer 
+**Data scientist and AI engineering consultant**  
 
-Data scientist and AI engineering consultant  Jun 2020 - Present
 Experience with AWS services related to AI/ML, particularly Amazon EMR, AWS Lambda, Machine Learning, Amazon S3, Amazon EC2 Container Service, etc.
 Creating ML models for prediction in retail and educational industry, with high accuracy (95%).
 Customer selection using ML with exclusively behavior analysis and guidance sales/marketing team how, when and by whom those customers must be connected and convert to new clients. This process can be automated with a TI team.

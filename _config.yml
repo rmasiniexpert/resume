@@ -8,9 +8,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://docs.google.com/document/d/e/2PACX-1vTPLqBZdso7GnMgQwxJUosIewp_EzqC9NlLGgLqlZoyxurerru3wpyfvstkaRR4mg/pub">View my complete Resume</a> 
   <br>
-  <a href="https://www.linkedin.com/in/rmasiniexpert/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/rmasiniexpert/">View my LinkedIn Profile</a> 
   <br>
-  <a href="https://www.twitter.com/rodrigo_masini/">View My Twitter Profile</a>
+  <a href="https://www.twitter.com/rodrigo_masini/">View my Twitter Profile</a>
+  <br>
+  <a href="https://www.github.com/rmasiniexpert/">View my Github Profile</a>
   <br>
   <a href="mailto:rmasiniexpert@gmail.com">Discover a new humanized A.I.</a> 
 resume: "rodrigomasini.pdf"

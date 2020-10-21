@@ -6,7 +6,7 @@
 
 A **Senior Data Scientist** with a very rich educational background in Medicine (specialist in Pediatrics), Mathematics, Physics, Project Manager (six lean sigma) and **MBA in business and technology (data science)**. 
 
-**My speciality is in the development of artificial intelligence (A.I.) that reasons like humans do, to automate complex tasks, simplify human-machine interactions, or model human behaviors. Also, I act more as a Research Scientist/ Principal Investigator (PI) who focus on applying machine learning, statistical models and cognitive science approaches to structured data to identify, recognize and to predict human behavior for use in human behavior models, social cyber security activity detection and classification, and interpretation of text.**
+**I act more as a Machine Learning engineer and a Research Scientist/ Principal Investigator (PI) who focus on applying machine learning, statistical models and cognitive science approaches to structured data to identify, recognize and to predict human behavior for use in human behavior models, social cyber security activity detection and classification, and interpretation of text.**
 
 Also, I have a lot of experience on leverage data to solve business challenges through machine learning models and other AI approaches. My 4 years of Data Scientist tasks were dedicated to create a data analytics culture for all size business, from brainstorm ideas, development and management of AI projects to the deployment of a new efficient, smart and automated technology into the business operations. 
 

@@ -44,69 +44,77 @@ Others:    **Medicine/Pharma routines, Healthcare Management, Statistical Data A
 ## Professional experience (old to new)
 
 
-### MUNICIPAL SANTA JULIANA HOSPITAL, BRAZIL Mar 2007 - Feb 2008
+### MUNICIPAL SANTA JULIANA HOSPITAL | Emergency Medicine – Physician
 
-**Emergency Medicine – Physician**
-
-
-### BRAZILIAN ARMY, BRAZIL Feb 2008 - Mar 2009
-
-**Lieutenat Physician** 
+March 2007 - February 2008
 
 
-### SANTO ANTONIO CHILDREN’S HOSPITAL, BRAZIL Mar 2009 - Feb 2011
+### BRAZILIAN ARMY | Lieutenant Physician  
 
-**Director of Semi intensive acute critical Unit and Clinical Research Associate** 
-
-
-### SANTA CLARA HOSPITAL, Brazil Mar 2011 - Sep 2016
-
-**Emergency Pediatrician and Director of Pediatrics ED**
+February 2008 - March 2009
 
 
-### PERALTA PEDIATRIC CLINIC, BRAZIL  Mar 2011 - Aug 2016
+### SANTO ANTONIO CHILDREN’S HOSPITAL | Director of semi intensive acute critical Unit | Clinical Research Associate
 
-**Owner, CEO and COO**
-
-
-### Dra Ariadne Primary Care, Senomed, Dr Ivan Angio Services, Dr Rafael Cardiology Practice, Cardioreborn Cardiac Surgery Institute[Healthcare Clinics], Sao Paulo State, Country Brazil– Remote position - contract Apr 2016 – Feb 2019
-
-**Healthcare Strategy and Operations Independent Consultant**
+March 2009 - February 2011 
 
 
-### Sinaxys, Anaminese & some Projects in Partnership with Venture Capital GROWPLUS[Startups], Porto Alegre State, Country Brazil – Remote position - contract   Apr 2017 – Nov 2018
+### SANTA CLARA HOSPITAL | Emergency Pediatrician and Director of Pediatrics ED 
 
-**Change agent**
-
-
-### ORTOPCURITIBA, RENOVARE, DRA MARIANA PRIMARY PRACTICE, DR GIBRAN NEUROSURGEON [Healthcare Practices], Paraná State, Country Brazil – Remote position – contract  Jun 2017 - Oct 2018
-
-**Project Manager – Healthcare**
+March 2011 - September 2016
 
 
-### MEDITOC, Up Recovery, Instituto de Mama do ABC [Hospitals], Sao Paulo State, Country Brazil – Remote position – contract Jun 2017 – Nov 2018
+### PERALTA PEDIATRIC CLINIC | Owner, CEO and COO 
 
-**Lean Six Sigma Project Manager**
-
-
-### Ortopedia da Barra & Ombro sem Dor [Healthcare Specialized Clinics], RJ State, Country Brazil –  Remote position - contract    Jul 2017 – Oct 2019
-
-**Data Analyst, Clinical Research Consultant and Decision Intelligence Consultant**
+March 2011 - August 2016
 
 
-### LZNEWS, JORNAL LABOR NEWS, DOUTORTV, HEALTHTECHCHANNEL[MAGAZINE AND ONLINE BLOGS], Jan 2019 - December 2019
+### DHEALTHCARE CLINICS CONTRACTS (DRA ARIADNE PRIMARY CARE , SENOMED , DR IVAN ANGIO SERVICES, DR RAFAEL CARDIOLOGY PRACTICE, CARDIOREBORN CARDIAC SURGERY INSTITUTE) REMOTE POSITION | Healthcare Strategy and Operations Consultant
 
-**Scientific Technical Medical & Pharma and Digital Healthcare Writer**
-
-
-### IBusinessHealth [Data science company] Brazil – Remote position – contract   Jan 2018 – September 2019
-
-**Data scientist**
+April 2016 – February 2019
 
 
-### AITendency [Data science company] Windermere, Florida US, Oct 2019 – May 2020
+### STARTUPS CONTRACTS (SINAXYS AND ANAMINESE) REMOTE POSITION | Change agent
 
-**Chief Data Officer** 
+April 2017 – November 2018
+
+
+### HEALTHCARE PRACTICES CONTRACTS (ORTOPCURITIBA, RENOVARE) REMOTE POSITION | Project Manager
+
+June 2017 - October 2018
+
+
+### CARTOGRAFIA VASCULAR CONTRACT REMOTE POSITION | Data Scientist
+
+June 2017 – February 2019
+
+
+### HEALTHCARE SPECIALIZED CLINICS CONTRACTS(ORTOPEDIA DA BARRA & OMBRO SEM DOR ) REMOTE POSITION | Data Analyst, Clinical Research Consultant and Decision Intelligence Consultant   
+
+July 2017 – October 2019
+
+
+### IBUSINESSHEALTH REMOTE POSITION | Data Scientist Manager
+
+January 2018 – September 2019
+    
+Understand various data structures and common methods in data transformation.
+Pattern recognition and predictive modeling using new bevahior algorithm approach. 
+Using statistics and mathematics background to create new ways to develop specific models.
+Independent learning and technical problem-solving creating solutions for each client and project.
+Lead, motivate and manage large technical teams.
+Overseeing the collection, storage, management, quality and protection of data.
+Implementing data privacy policies and complying with data protection regulations.
+Determine where to cut costs and increase revenue based on insights derived from data.
+Effectively communicate the status, value, and importance of data collection to executive members and staff.
+Worked with SQL queries in MSSQL and PostgreSQL.
+Responsible for creating data storage and flow in AWS.
+Knowledge of relevant applications, big data solutions, and tools to build specific algorithms to Hospitals and clinics in South America.ged projects and multiple priorities never overpassing budget and timeline. 
+
+
+### AITENDENCY | Chief Data Officer
+
+October 2019 – May 2020
 
 This position I was responsible for developing and maintaining our client's business analytical infrastructure providing timely and reliable data for informed decision-making. In addition, I apply advanced statistical analysis, data mining, machine learning models and various predictive modeling techniques to provide information, knowledge, coordination, and tools that support the growth and continued success of our clients. At the same, I am responsible:
 Knowledge of relevant applications, big data solutions, and tools.
@@ -125,9 +133,9 @@ Work with software engineers to integrate commonly used analyses;
 Participate in IT data modeling for new or re-engineered systems.
 
 
-### Independent contractor Windermere, Florida US, May 2009 - Present 
+### INDEPENDENT CONTRACTOR | Data scientist and AI engineering consultant  
 
-**Data scientist and AI engineering consultant**  
+June 2020 - Present
 
 Experience with AWS services related to AI/ML, particularly Amazon EMR, AWS Lambda, Machine Learning, Amazon S3, Amazon EC2 Container Service, etc.
 Creating ML models for prediction in retail and educational industry, with high accuracy (95%).

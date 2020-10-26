@@ -18,12 +18,12 @@ Creative, organized, dedicated and compromised with excellence in all project de
 
 ### Selected Value Highlights
 
-Data Scientist with 4+ years of hands-on experience working with data in visualization, reporting, analysis, with ability to work with minimal supervision, think critically and deliver superior output that is fully tested, fully documented and in alignment with what is needed.
-Effectively leverages academic knowledge and resources to create exceptional outcomes by embracing change and resolving barriers and constraints using Lean Six Sigma methodology.
-Proficient in project planning, coordinate teams, implementation and maintaining for attainment of organizational long-term goals and objectives.
-Excellent analytical, problem-solving skills including strong ability to build up models with effectiveness and efficiency.
-High ability to use different data science tools to increase speed, efficiency and the quality of the results. 
-Expertise in keeping an up-to-date knowledge about healthcare business trends, research, innovation and healthcare business administration.
+A senior Data Scientist with a very rich educational background in Medicine (specialist in Pediatrics), Mathematics, Physics, Project Manager (six lean sigma) and MBA in business and technology (data science). At this point in my professional life, I am focused on creating revenue and ROi from machine learning products and predictions. At the same time, support both the team and company to create a strong dta culture.
+
+My speciality is in the development of artificial intelligence (A.I.) that reasons like humans do, to automate complex tasks, simplify human-machine interactions, or model human behaviors. Responsible for creating machine learning models that use exclusive personality and human behavior to increase on average 30% of traditional AI models.
+
+Also an innovative MD with a strong leadership manager with 10+ years of experience in digital healthcare and management consulting focused on healthcare strategies, clinical research, project management tasks, and data science projects to healthcare companies.
+
 
 Programming Languages:     **R, SQL, Linux, Javascript, Python**
 
@@ -98,18 +98,39 @@ July 2017 – October 2019
 
 January 2018 – September 2019
     
-Understand various data structures and common methods in data transformation.
-Pattern recognition and predictive modeling using new bevahior algorithm approach. 
-Using statistics and mathematics background to create new ways to develop specific models.
-Independent learning and technical problem-solving creating solutions for each client and project.
+Thorough understanding of the business and data strategy.
+Designing and implementing data strategies and data flow.
 Lead, motivate and manage large technical teams.
 Overseeing the collection, storage, management, quality and protection of data.
 Implementing data privacy policies and complying with data protection regulations.
 Determine where to cut costs and increase revenue based on insights derived from data.
 Effectively communicate the status, value, and importance of data collection to executive members and staff.
 Worked with SQL queries in MSSQL and PostgreSQL.
-Responsible for creating data storage and flow in AWS.
-Knowledge of relevant applications, big data solutions, and tools to build specific algorithms to Hospitals and clinics in South America.ged projects and multiple priorities never overpassing budget and timeline. 
+Responsible for creating data storage and flow in AWS. 
+Leverage leading analytical tools to generate insights that facilitate key decisions by department Leadership of IBusinessHealth clients.
+Developed repeatable analytics aimed at the department and Executive Leadership of IBusinessHealth clients that provided insights into the health and performance of the department.
+Leverage available data to develop preventative and detective controls to ensure timeliness, accuracy, and completeness of business processes of IBusinessHealth clients.
+Contributed with IT team to the design and architecture of data models and dashboards used to retain and present key information to the business. 
+Assisted with development and execution of highly complex algorithms and statistical predictive models from large sets of data of IBusinessHealth clients.
+Determine analytical approaches and modeling techniques to evaluate scenarios and potential future outcomes of IBusinessHealth clients.
+Developed with IT team repeatable ETL processes from source systems to analytics sandbox, ensuring integrity, completeness, and accuracy of data is maintained
+Performed statistical analysis to quantify the limitations of models.
+Developed and improved upon metrics that evaluate department performance.
+Think critically about the business and how the work is performed. 
+Identify opportunities to improve the status quo, inject data into the decision-making process, and support progress with facts
+Served as a trusted contact for internal department members or other departments of IBusinessHealth clients. 
+Worked with the business to define methodologies that directly address their concerns; present results or deliverables to the business and provide support with confidence.
+Analyzed and reconcile premium revenue and remittance status, accounting for rate changes across all product lines. 
+Supported and report account receivables sub-ledger aging and collections.
+Reviewed, analyzed and created detailed documentation reports to support department processes.
+Anticipated and solve strategic and high risk business problems with broad impact on the business area by investigating problems, detecting patterns and recommending solutions
+Communicate new knowledge and insights gained from analysis of big data
+Transfer knowledge and concepts to the team that is implementing the actual system
+Partner with IT and business teams to solve problems, develop new algorithms and models, and identify trends and opportunities. Inform, influence, support, and execute business and product decisions.
+Additional duties as assigned
+
+Knowledge of relevant applications, big data solutions, and tools to build specific algorithms to Hospitals and clinics in South America.
+
 
 
 ### AITENDENCY | Chief Data Officer
@@ -137,12 +158,35 @@ Participate in IT data modeling for new or re-engineered systems.
 
 June 2020 - Present
 
+I have performed projects to US companies like TS Immigration Law company, Concept Design,    Makeup America and NordHolidays creating, managing and implementing specific A.I. products.
+
 Experience with AWS services related to AI/ML, particularly Amazon EMR, AWS Lambda, Machine Learning, Amazon S3, Amazon EC2 Container Service, etc.
-Creating ML models for prediction in retail and educational industry, with high accuracy (95%).
+reating ML models for prediction in retail and educational industry, with high accuracy (95%).
 Customer selection using ML with exclusively behavior analysis and guidance sales/marketing team how, when and by whom those customers must be connected and convert to new clients. This process can be automated with a TI team.
-Creating database, enriching database and management for more efficient and financial results.    
+Creating databases, enriching databases and management for more efficient and financial results.    
 Web scraping and bot automation to extract public information.
-Simple Shiny applications and markdown reports (not software engineering).                
+Shiny applications and markdown reports (not software engineering).    
+
+In all my projects for those companies I did:
+Developed and maintained predictive models.
+Investigated data quality, exploring feature selection and model tuning for improved performance.
+Collected performance data and monitor model assessment.
+Driving data understanding to ensure the alignment of data science to business goals.
+Worked with the product team to align on data meaning and industry practices and terminology, as well as with the data platform team to ensure the concept and semantic integrity across data layers.
+Collaborated with the cross functional teams and growth teams to translate business problems into solutions and be able to effectively communicate about the data issues to the business.
+Researched any other data points that the company can utilize for predictions or reporting.
+Managed Data Governance Framework Research and analyze the effectiveness of the company's products.
+Used techniques such as PSM to estimate, understand, and monitor product performance.
+Researched and implemented new machine learning methods to improve risk management products, supporting BI and analytics across departments.
+Provided consultative expertise as needed and self-serve reports, dashboards, and information on predictive models and customer performance.
+Advanced machine learning strategy and road map planning working across the modeling community.
+Worked closely with the heads of Client Experience, Technology, Operations, Product and the Business lines to identify new or enhanced capabilities that will advance the company's strategic objectives.
+Ensured company's production level models were performant and meet industry standard and best practices.
+Championed Data Understanding and the culture of Data Science throughout the company.
+Informed data analysis best practices across the organization's teams that are statistically rigorous, and provide an interpretation of findings that were reliable and defensible to the industry.
+Builded and leaded a high-performing team of data scientists, helping to enhance their skills, while creating a fun and engaging culture that helps them prosper.
+Fostered career growth and provide thoughtful mentorship to develop employees at varying levels of experience.
+              
 
 
 ---

@@ -94,7 +94,7 @@ June 2017 – February 2019
 July 2017 – October 2019
 
 
-### IBUSINESSHEALTH REMOTE POSITION | Data Scientist Manager
+### IBUSINESSHEALTH REMOTE POSITION | Lead Data Scientist 
 
 January 2018 – September 2019
     

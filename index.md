@@ -74,7 +74,7 @@ For visualization I use Tableau and Shiny applications, also some html5 or markd
 
 
 ### AITENDENCY | Lead Data Scientist
-#### October 2019 – May 2020
+#### October 2019 – June 2020
 
 I was responsible for developing and maintaining our client's business analytical infrastructure providing timely and reliable data for informed decision-making. I applied advanced statistical analysis, data mining, machine learning models and various predictive modeling techniques to provide information, knowledge, coordination, and tools that support the growth and continued success of our clients. At the same, I developed the following activities:
 
